@@ -3,11 +3,11 @@ Atari POKEY chip emulator and not AI. However, I am experimenting with using AI 
 the AI-Generated folder only. I just want to be clear on how this is created. 
 
 The key here really is that I have my own DAW application suite that includes a couple of editors, players, instrument editors, MIDI converters, a sheet 
-music generator and other applications. These are designed to work with my POKEY chip emulator, which generates all the 8-bit sounds. I take classical music or 
+music generator, and other applications. These are designed to work with my POKEY chip emulator, which generates all the 8-bit sounds. I take classical music or 
 custom compositions and transpose it into my own custom song file format (text-based) that I run via my DAW application that uses the POKEY chip emulator
 to generate the sound.
 
-### AI-Assistence includes:
+### AI Assistance includes:
 * Help me configure and tune 8-bit instruments for POKEY chip settings
 * Transpose sheet music to text files
 * Test emulation functions and algorithms against recorded sounds
