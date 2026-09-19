@@ -1,1 +1,1 @@
-I have my own custom DAW application to build 8-bit music using the POKEY chip emulator. My app supports outputting sheet music, and therefore I provide it with the music. I am open to suggestions on how to improve the sheet music. 
+I have my own custom DAW application to build 8-bit music using the POKEY chip emulator. My app supports outputting sheet music, and therefore I provide it with the music.
