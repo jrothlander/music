@@ -1,14 +1,16 @@
-Here are a few Reaper projects (RPP) and MP3 renders pf simple piano runs from old 80s and 90s songs that I can remember from memory after about 30 years. These are just for me to verify timing and errors, and see if I can actually remember how to play them. I also wanted to see what the sheet music generation looks like in Reaper from these and how other instruments sound when applied to the piano MIDI recordings. But the real point is to see how Reaper works to record a song on the piano, clean it up in Reaper, then use create orchestral tracks from the piano tracks, re-record tracks, add additional runs and merge them, etc., etc. Just trying to get the feel for this.
+These aren’t production‑quality recordings—just a handful of quick piano runs I’m sharing as reference points for other discussions about working in Reaper. They’re rough, but there are enough good moments that I can build on later.
 
-I started by recording these on the piano and then modified them in Reaper to add orchestral sounds. This is just me playing around a bit. But a few of them sound interesting. I have left the original piano recording in for reference. Most of these are pretty bad. _Endless Love_ is WAY TOO FAST. But it lets me figure out how much I need to slow it down and how bad my timing is. The other songs all have issues, but that is the point. To see what they sound like and what to clean up. Then I can go back and record a better version anytime.  
+I recorded everything in one sitting with no corrections. The goal was simply to play, drop the takes into Reaper, and experiment with cleanup, timing fixes, orchestration, and track layering. The folder includes a few Reaper projects (RPP) and MP3 renders of simple piano sketches from 80s and 90s songs I still remember after ~30 years. This is all about learning Reaper’s workflow: record a piano part, clean it up, generate orchestral tracks from it, re‑record sections, merge runs, and get a feel for the process.
 
-### _Pirates of the Caribbean_ 
-A good example of what I am trying to do with these. Played it on the piano, then started taking that part into separate tracks and assigning violin, cello, and bass, parts. 
+I left the original piano recordings in place for reference. Most of them are pretty rough—Endless Love is way too fast—but that’s the point. Hearing the mistakes helps me understand what needs to be fixed before recording better versions later.
 
-### _Let It Go_ 
-This is my version and not the original. I am playing around with some left-hand runs of my own that I think sound better than the original version when you are playing an instrumental version.  
+### Pirates of the Caribbean
+A good example of the workflow I’m testing: record the piano part, then break it into separate tracks and assign violin, cello, and bass lines.
 
-### The Rocky Theme, _Gonna Fly Now_
-I was actually trying to make this sound as close to the original as possible. The MIDI was not picking up the 16th notes well, so I wanted to see how to clean that up in Reaper. I think it did a pretty good job.  
+### Let It Go
+My own instrumental interpretation. I’m experimenting with left‑hand runs that I think work better for a solo version.
 
-I will continue to re-record these and clean them up, and try to make them better. I might even try to find the sheet music and play the whole song correctly. But for now, these are just a few simple test runs to see how things sound in Reaper. 
+## Rocky Theme – “Gonna Fly Now”
+Here I tried to match the original as closely as possible. The MIDI struggled with the 16th‑note passages, so I used this as a test case for cleaning up dense timing in Reaper. It handled it surprisingly well.
+
+I’ll keep re‑recording and refining these, and I may eventually track down the sheet music and play full versions correctly. For now, they’re just simple test runs to explore how things sound and how far Reaper can take them.
