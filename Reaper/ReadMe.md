@@ -8,7 +8,7 @@ I left the original piano recordings in place for reference. Most of them are pr
 A good example of the workflow I’m testing: record the piano part, then break it into separate tracks and assign violin, cello, and bass lines.
 
 ### Let It Go
-My own instrumental interpretation. I’m experimenting with left‑hand runs that I think work better for a solo version.
+My own instrumental interpretation and a number of runs... not in order. I’m experimenting with left‑hand runs that I think work better for a solo version. The original piano actually sounds better than the orchestral version. But the MP3 is the orchestral. 
 
 ### Rocky Theme – “Gonna Fly Now”
 Here I tried to match the original as closely as possible. The MIDI struggled with the 16th‑note passages, so I used this as a test case for cleaning up dense timing in Reaper. It handled it surprisingly well.
