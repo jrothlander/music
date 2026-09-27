@@ -10,7 +10,7 @@ A good example of the workflow I’m testing: record the piano part, then break 
 ### Let It Go
 My own instrumental interpretation. I’m experimenting with left‑hand runs that I think work better for a solo version.
 
-## Rocky Theme – “Gonna Fly Now”
+### Rocky Theme – “Gonna Fly Now”
 Here I tried to match the original as closely as possible. The MIDI struggled with the 16th‑note passages, so I used this as a test case for cleaning up dense timing in Reaper. It handled it surprisingly well.
 
 I’ll keep re‑recording and refining these, and I may eventually track down the sheet music and play full versions correctly. For now, they’re just simple test runs to explore how things sound and how far Reaper can take them.
